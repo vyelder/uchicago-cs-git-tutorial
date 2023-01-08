@@ -1,1 +1,2 @@
-Vanessa Yelder vyelder
+Vanessa Yelder vyelder 
+UChicago CS Git Tutorial
